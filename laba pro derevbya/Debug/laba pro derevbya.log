@@ -1,0 +1,36 @@
+﻿Build started 18.03.2020 15:06:24.
+     1>Project "C:\Users\Danil\OneDrive\документы\visual studio 2013\Projects\laba pro derevbya\laba pro derevbya\laba pro derevbya.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt el.cpp kedr.cpp leaf.cpp main.cpp
+         main.cpp
+     1>c:\users\danil\onedrive\документы\visual studio 2013\projects\laba pro derevbya\laba pro derevbya\main.cpp(40): error C2065: 'TKedr' : undeclared identifier
+     1>c:\users\danil\onedrive\документы\visual studio 2013\projects\laba pro derevbya\laba pro derevbya\main.cpp(40): error C2146: syntax error : missing ';' before identifier 'elisei'
+     1>c:\users\danil\onedrive\документы\visual studio 2013\projects\laba pro derevbya\laba pro derevbya\main.cpp(40): error C2065: 'elisei' : undeclared identifier
+     1>c:\users\danil\onedrive\документы\visual studio 2013\projects\laba pro derevbya\laba pro derevbya\main.cpp(41): error C2065: 'elisei' : undeclared identifier
+     1>c:\users\danil\onedrive\документы\visual studio 2013\projects\laba pro derevbya\laba pro derevbya\main.cpp(41): error C2228: left of '.SetRings' must have class/struct/union
+                 type is 'unknown-type'
+     1>c:\users\danil\onedrive\документы\visual studio 2013\projects\laba pro derevbya\laba pro derevbya\main.cpp(42): error C2065: 'elisei' : undeclared identifier
+     1>c:\users\danil\onedrive\документы\visual studio 2013\projects\laba pro derevbya\laba pro derevbya\main.cpp(42): error C2228: left of '.SetElka' must have class/struct/union
+                 type is 'unknown-type'
+     1>c:\users\danil\onedrive\документы\visual studio 2013\projects\laba pro derevbya\laba pro derevbya\main.cpp(43): error C2065: 'elisei' : undeclared identifier
+     1>c:\users\danil\onedrive\документы\visual studio 2013\projects\laba pro derevbya\laba pro derevbya\main.cpp(43): error C2228: left of '.GetRings' must have class/struct/union
+                 type is 'unknown-type'
+     1>c:\users\danil\onedrive\документы\visual studio 2013\projects\laba pro derevbya\laba pro derevbya\main.cpp(43): error C2228: left of '.GetTypeleaf' must have class/struct/union
+                 type is 'unknown-type'
+     1>c:\users\danil\onedrive\документы\visual studio 2013\projects\laba pro derevbya\laba pro derevbya\main.cpp(44): error C2065: 'elisei' : undeclared identifier
+     1>c:\users\danil\onedrive\документы\visual studio 2013\projects\laba pro derevbya\laba pro derevbya\main.cpp(44): error C2228: left of '.plodi' must have class/struct/union
+                 type is 'unknown-type'
+     1>c:\users\danil\onedrive\документы\visual studio 2013\projects\laba pro derevbya\laba pro derevbya\main.cpp(44): error C2228: left of '.polza' must have class/struct/union
+                 type is 'unknown-type'
+     1>c:\users\danil\onedrive\документы\visual studio 2013\projects\laba pro derevbya\laba pro derevbya\main.cpp(44): error C2228: left of '.GetProchnost' must have class/struct/union
+                 type is 'unknown-type'
+         leaf.cpp
+     1>c:\users\danil\onedrive\документы\visual studio 2013\projects\laba pro derevbya\laba pro derevbya\leaf.cpp(16): error C3867: 'TLeaf::liveinside': function call missing argument list; use '&TLeaf::liveinside' to create a pointer to member
+         kedr.cpp
+         el.cpp
+         Generating Code...
+     1>Done Building Project "C:\Users\Danil\OneDrive\документы\visual studio 2013\Projects\laba pro derevbya\laba pro derevbya\laba pro derevbya.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.37
